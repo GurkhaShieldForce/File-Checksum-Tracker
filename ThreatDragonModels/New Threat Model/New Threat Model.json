@@ -18,9 +18,29 @@
         "version": "2.4.1",
         "cells": [],
         "description": "STI"
+      },
+      {
+        "id": 1,
+        "title": "AI",
+        "diagramType": "PLOT4ai",
+        "placeholder": "New PLOT4ai diagram description",
+        "thumbnail": "./public/content/images/thumbnail.plot4ai.jpg",
+        "version": "2.4.1",
+        "cells": [],
+        "description": "AI"
+      },
+      {
+        "id": 2,
+        "title": "GEN",
+        "diagramType": "Generic",
+        "placeholder": "New generic diagram description",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "version": "2.4.1",
+        "cells": [],
+        "description": "GNE"
       }
     ],
-    "diagramTop": 1,
+    "diagramTop": 3,
     "reviewer": "Board",
     "threatTop": 0
   }
